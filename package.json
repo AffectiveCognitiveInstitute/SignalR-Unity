@@ -1,6 +1,6 @@
 {
-  "name": "com.microsoft.signalr",
-  "version": "0.0.1",
+  "name": "de.researchsweet",
+  "version": "8.0.8",
   "displayName": "Microsoft SignalR Core",
   "description": "A Unitypackage including SignalR.",
   "unity": "2019.1",
