@@ -1,24 +1,24 @@
 {
   "name": "de.researchsweet.signalr",
-  "version": "8.0.8",
+  "version": "8.0.9",
   "displayName": "Microsoft SignalR Core",
-  "description": "A Unitypackage including SignalR.",
+  "description": "A Unity package including SignalR.",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
+  "documentationUrl": "https://github.com/AffectiveCognitiveInstitute/SignalR-Unity",
+  "changelogUrl": "https://github.com/AffectiveCognitiveInstitute/SignalR-Unity/commits/main/",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
 
  },
  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "signalr",
+    "microsoft",
+    "unity"
   ],
   "author": {
     "name": "Arndt Bieberstein, Stefano Gampe, Benjamin Schnitzer",
     "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
+    "url": "https://aci.hs-offenburg.de/"
   }
 }
